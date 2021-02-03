@@ -116,6 +116,10 @@ Project Link: [https://github.com/MinusRF/AirStylus](https://github.com/MinusRF/
 * [OpenCV Documents](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [GeeksforGeeks](https://shields.io)
 
+## LICENSE
+
+[MIT LICENSE](LICENSE)
+
 
 
 
