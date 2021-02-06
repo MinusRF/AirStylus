@@ -43,7 +43,7 @@ Air Stylus is a color detection based Pen-Tablet system. It tends to provide all
 * [OpenCV 4.2.0](https://opencv.org/)
 
 ### Demo
-<img src="https://github.com/MinusRF/AirStylus/blob/main/Demo.gif" width="40%">
+<img src="https://github.com/MinusRF/AirStylus/blob/main/Demo.gif" width="100%">
 
 <table>
   <tr>
