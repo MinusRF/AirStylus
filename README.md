@@ -36,8 +36,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/MinusRF/AirStylus/blob/main/Demo-04.png)
-
 Air Stylus is a color detection based Pen-Tablet system. It tends to provide all basic features of a regular pen tablet system like, multi-color drawing option, width adjustment option, background switch, eraser etc. Concepts like Morphology, Erosion and Dilation play a very important role in the process. Project was build in Python, with OpenCV library.  Being able to draw in Air feels like magic and I absolutely recommend you to try it in your systems. 
 
 ### Built With
