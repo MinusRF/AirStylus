@@ -45,6 +45,14 @@ Air Stylus is a color detection based Pen-Tablet system. It tends to provide all
 ### Demo
 <img src="https://github.com/MinusRF/GIF/blob/master/coder.gif" width="40%">
 
+<table>
+  <tr>
+    <td valign="top"><img src="https://github.com/MinusRF/AirStylus/blob/main/Output01.jpg"></td>
+    <td valign="top"><img src="https://github.com/MinusRF/AirStylus/blob/main/Output02.jpg"></td>
+  </tr>
+ </table>
+
+
 
 <!-- GETTING STARTED -->
 ## Getting Started 
