@@ -11,8 +11,8 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
+## Table Of Contents
+<show open="open">
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -26,7 +26,6 @@
     </li>
     <li><a href="#contributing">Contributing</a></li> 
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
      <li><a href="#license">License</a></li>
   </ol>
 </details>
@@ -83,12 +82,12 @@ Project Link: [https://github.com/MinusRF/AirStylus](https://github.com/MinusRF/
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
+
 ## References
 * [OpenCV Documententation](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [GeeksforGeeks](https://shields.io)
 
-## LICENSE
+## License
 
 [MIT LICENSE](LICENSE)
 
