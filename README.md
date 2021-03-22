@@ -3,7 +3,7 @@
   <h3 align="center">AIR STYLUS</h3>
 
   <p align="center">
-    Darw in Air !
+    Draw in Air !
     <br />
   </p>
 </p>
